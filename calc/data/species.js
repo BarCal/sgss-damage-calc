@@ -190,7 +190,7 @@ var RBY = {
     },
     Dugtrio: {
         types: ['Ground'],
-        bs: { hp: 35, at: 80, df: 50, sp: 120, sl: 70 },
+        bs: { hp: 35, at: 100, df: 50, sp: 120, sl: 70 },
         weightkg: 33.3
     },
     Eevee: {
@@ -2010,7 +2010,7 @@ var ADV_PATCH = {
     },
     Dustox: {
         types: ['Bug', 'Poison'],
-        bs: { hp: 60, at: 50, df: 70, sa: 65, sd: 105, sp: 65 },
+        bs: { hp: 60, at: 50, df: 70, sa: 65, sd: 105, sp: 85 },
         weightkg: 31.6,
         abilities: { 0: 'Shield Dust' }
     },
